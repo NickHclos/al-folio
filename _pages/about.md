@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Algorithm Developer at ByteDance. PhD from Peking University, 2025.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Jiachen Hu (胡家琛), now working as an algorithm developer at ByteDance. I graduated from Peking University and received the PhD degree in 2025, where I am fortunate to be advised by Professor [Liwei Wang](http://www.liweiwang-pku.com/), and spend wonderful times working with [Chi Jin](https://sites.google.com/view/cjin/home?pli=1) and [Lihong Li](https://lihongli.github.io/) remotely for past years. Before becoming a PhD candidate, I obtained my B.S. from Turing Class, Peking University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have broad interests in sample efficient reinforcement learning and online learning, especially the application-driven problems. In the past few years, my researches focused on statistically efficient bandits (e.g., multi-armed bandits, linear bandits), online exploration in structured MDPs/POMDPs, and understanding sim-to-real transfer. Please feel free to contact me if you are interested in my researches or having a chat with me!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv_2025_new.pdf). My WeChat can be found [here](https://nickhclos.github.io/files/wechat.png).
