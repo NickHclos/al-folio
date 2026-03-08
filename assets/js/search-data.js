@@ -443,8 +443,8 @@ ninja.data = [{
             },},{id: "news-one-paper-accepted-at-iclr-2023",
           title: 'One paper accepted at ICLR 2023!',
           description: "",
-          section: "News",},{id: "news-happy-to-visit-princeton-university-for-5-6-months",
-          title: 'Happy to visit Princeton University for 5-6 months!',
+          section: "News",},{id: "news-will-visit-princeton-university-for-the-next-6-months",
+          title: 'Will visit Princeton University for the next 6 months!',
           description: "",
           section: "News",},{id: "news-one-paper-accepted-at-tqc-2024",
           title: 'One paper accepted at TQC 2024!',
@@ -540,6 +540,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=5GavKiQAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-wechat_username',
+        title: 'Wechat_username',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
