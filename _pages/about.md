@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Algorithm Developer at ByteDance. PhD from Peking University, 2025.
+subtitle: Algorithm Developer at ByteDance. PhD of Peking University.
 
 profile:
   align: right
-  image: myimg.jpg
+  image: myimg_formal.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
@@ -19,7 +19,7 @@ announcements:
   limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
