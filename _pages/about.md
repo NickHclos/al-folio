@@ -29,4 +29,4 @@ My name is Jiachen Hu (胡家琛), now working as an algorithm developer at Byte
 
 I have broad interests in sample efficient reinforcement learning and online learning, especially the application-driven problems. In the past few years, my researches focused on statistically efficient bandits (e.g., multi-armed bandits, linear bandits), online exploration in structured MDPs/POMDPs, and understanding sim-to-real transfer. Please feel free to contact me if you are interested in my researches or having a chat with me!
 
-My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv_2025_new.pdf). My WeChat can be found [here](https://nickhclos.github.io/files/wechat.png).
+Contact: nickh at pku.edu.cn
