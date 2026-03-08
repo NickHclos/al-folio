@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Happy to visit Princeton University for 5-6 months!
+Will visit Princeton University for the next 6 months!
