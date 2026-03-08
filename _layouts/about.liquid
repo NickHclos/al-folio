@@ -56,8 +56,15 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
+    <!-- Publications -->
+    <!-- To show ALL publications: set show_all_papers: true in about.md -->
+    <!-- To show only selected:   set show_all_papers: false, selected_papers: true in about.md -->
+    {% if page.show_all_papers %}
+      <h2>publications</h2>
+      <div class="publications">
+        {% bibliography %}
+      </div>
+    {% elsif page.selected_papers %}
       <h2>
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
       </h2>
