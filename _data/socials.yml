@@ -5,4 +5,4 @@ cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file
 email: nickh@pku.edu.cn # your email address
 github_username: nickhclos # your GitHub username
 scholar_userid: 5GavKiQAAAAJ # your Google Scholar ID
-wechat_qr: wechat-qr.png # filename of your wechat qr-code saved as an image in assets/img/
+# wechat_qr: wechat-qr.png # filename of your wechat qr-code saved as an image in assets/img/
