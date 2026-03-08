@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info:
 
-show_all_papers: true  # true = show all publications on homepage; false = use selected_papers below
-selected_papers: false # true = show only papers marked selected={true} (also set show_all_papers: false)
+show_all_papers: false # true = show all publications on homepage; false = use selected_papers below
+selected_papers: true  # true = show only papers marked selected={true} (also set show_all_papers: false)
 social: true # includes social icons at the bottom of the page
 
 announcements:
