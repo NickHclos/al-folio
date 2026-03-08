@@ -542,11 +542,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=5GavKiQAAAAJ", "_blank");
         },
       },{
-        id: 'social-wechat_username',
-        title: 'Wechat_username',
+        id: 'social-custom_social',
+        title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("/assets/img/wechat-qr.png", "_blank");
         },
       },{
       id: 'light-theme',
