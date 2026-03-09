@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-08'
+  last_updated: '2026-03-09'
 papers:
   5GavKiQAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -14,7 +14,7 @@ papers:
     title: The Sample Complexity of Online Strategic Decision Making with Information Asymmetry and Knowledge Transportability
     year: '2025'
   5GavKiQAAAAJ:IjCSPb-OGe4C:
-    citations: 120
+    citations: 121
     title: 'Distributed bandit learning: Near-optimal regret with efficient communication'
     year: '2019'
   5GavKiQAAAAJ:LkGwnXOMwfcC:
@@ -42,7 +42,7 @@ papers:
     title: Provable sim-to-real transfer in continuous domain with partial observations
     year: '2022'
   5GavKiQAAAAJ:Y0pCki6q_DkC:
-    citations: 174
+    citations: 175
     title: Understanding domain randomization for sim-to-real transfer
     year: '2021'
   5GavKiQAAAAJ:roLk4NBRz8UC:
