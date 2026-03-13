@@ -165,6 +165,18 @@
         transition: all 0.15s ease;
       }
 
+      div.abstract-inline {
+        font-size: 0.875em;
+        color: var(--global-text-color);
+        text-align: justify;
+        margin-top: 6px;
+
+        p {
+          line-height: 1.4em;
+          margin: 4px 0 0 0;
+        }
+      }
+
       div.abstract.hidden {
         border: dashed 1px var(--global-bg-color);
       }
