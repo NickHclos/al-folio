@@ -194,7 +194,7 @@
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
       {% endif %}
-      {% if entry.abstract and entry.selected != true %}
+      {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {% endif %}
       {% if entry.doi %}
@@ -370,17 +370,18 @@
     {% endif %}
 
     {% if entry.abstract %}
-      {% if entry.selected %}
-        <!-- Inline abstract for selected papers -->
-        <div class="abstract-inline">
-          <p>{{ entry.abstract }}</p>
-        </div>
-      {% else %}
-        <!-- Hidden abstract block -->
-        <div class="abstract hidden">
-          <p>{{ entry.abstract }}</p>
-        </div>
-      {% endif %}
+      <!-- Hidden abstract block -->
+      <div class="abstract hidden">
+        <p>{{ entry.abstract }}</p>
+      </div>
+    {% endif %}
+
+    {% assign highlight = site.data.paper_highlights[entry.key] %}
+    {% if highlight %}
+      <!-- Inline highlights for selected papers -->
+      <div class="highlights">
+        {{ highlight | markdownify }}
+      </div>
     {% endif %}
 
     {% if entry.bibtex_show %}

@@ -1,0 +1,18 @@
+# Paper highlights for selected publications on the homepage.
+# Keys must match the BibTeX entry keys in _bibliography/papers.bib.
+# Supports full Markdown syntax (bold, lists, math via MathJax, etc.).
+
+chen2025spherepacking: |
+  We construct non-lattice sphere packings in dimensions 19, 20, 21, 23, 44, 45, and 47, demonstrating **record densities** that surpass all previously documented results in these dimensions. The construction applies the antipode method to suboptimal cross-sections of $$\Lambda_{24}$$ and $$P_{48p}$$.
+
+hu2023provable: |
+  We study sim-to-real transfer in **continuous domains with partial observations**, modeled by linear quadratic Gaussian (LQG) systems. We show that a popular **robust adversarial training algorithm** can learn a policy from simulation that is competitive to the optimal real-world policy, providing the first provable guarantee in this setting.
+
+chen2022understanding: |
+  We provide a **theoretical framework for domain randomization**, modeling the simulator as a set of MDPs with tunable parameters. We prove sharp bounds on the sim-to-real gap and show that successful transfer is achievable **without any real-world training samples**, highlighting the importance of history-dependent policies.
+
+pmlr-v139-hu21a: |
+  We study **multi-task representation learning** for linear bandits and episodic RL with linear value function approximation. Our algorithm MTLR-OFUL achieves $$\tilde{O}(M\sqrt{dkT} + d\sqrt{kMT})$$ regret, significantly improving over the $$\tilde{O}(Md\sqrt{T})$$ baseline, yielding the **first theoretical characterization** of multi-task representation learning benefits in RL exploration.
+
+wang2020distributed: |
+  We design communication protocols for **distributed bandit learning** with M agents under central coordination. For multi-armed bandits, we achieve near-optimal regret with only $$O(M\log(MK))$$ communication cost — **independent of the time horizon** T and matching the lower bound up to a log factor.

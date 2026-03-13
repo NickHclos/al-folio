@@ -165,15 +165,19 @@
         transition: all 0.15s ease;
       }
 
-      div.abstract-inline {
+      div.highlights {
         font-size: 0.875em;
         color: var(--global-text-color);
         text-align: justify;
-        margin-top: 6px;
+        margin-top: 8px;
 
-        p {
-          line-height: 1.4em;
+        p, ul, ol {
+          line-height: 1.5em;
           margin: 4px 0 0 0;
+        }
+
+        ul, ol {
+          padding-left: 1.2em;
         }
       }
 
