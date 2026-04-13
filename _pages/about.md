@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Algorithm Developer at ByteDance. PhD of Peking University.
+subtitle: Algorithm Developer @ ByteDance. PhD @ Peking University.
 
 profile:
   align: right
@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Jiachen Hu (胡家琛), now working as an algorithm developer at ByteDance. I graduated from Peking University and received the PhD degree in 2025, where I am fortunate to be advised by Professor [Liwei Wang](http://www.liweiwang-pku.com/), and spend wonderful times working with [Chi Jin](https://sites.google.com/view/cjin/home?pli=1) and [Lihong Li](https://lihongli.github.io/) remotely for past years. Before becoming a PhD candidate, I obtained my B.S. from Turing Class, Peking University.
+Contact: nickh at pku.edu.cn
+
+My name is Jiachen Hu (胡家琛), now working as an algorithm developer at ByteDance. I graduated from Peking University and received the PhD degree in 2025, where I was fortunate to be advised by Professor [Liwei Wang](http://www.liweiwang-pku.com/), and spend wonderful times working with [Chi Jin](https://sites.google.com/view/cjin/home?pli=1) and [Lihong Li](https://lihongli.github.io/) remotely for past years. Before becoming a PhD candidate, I obtained my B.S. from Turing Class, Peking University.
 
 I have broad interests in sample efficient reinforcement learning and online learning, especially the application-driven problems. In the past few years, my researches focused on statistically efficient bandits (e.g., multi-armed bandits, linear bandits), online exploration in structured MDPs/POMDPs, and understanding sim-to-real transfer. Please feel free to contact me if you are interested in my researches or having a chat with me!
-
-Contact: nickh at pku.edu.cn
