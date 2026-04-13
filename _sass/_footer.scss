@@ -32,10 +32,5 @@ footer.sticky-bottom {
   .container {
     color: var(--global-footer-text-color);
     text-align: center;
-
-    #busuanzi_value_site_pv,
-    #busuanzi_value_site_uv {
-      color: var(--global-footer-text-color) !important;
-    }
   }
 }
