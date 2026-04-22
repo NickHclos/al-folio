@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-22'
 papers:
   5GavKiQAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -18,15 +18,15 @@ papers:
     title: 'Distributed bandit learning: Near-optimal regret with efficient communication'
     year: '2019'
   5GavKiQAAAAJ:LkGwnXOMwfcC:
-    citations: 2
+    citations: 3
     title: 'Zeroswap: Data-driven optimal market making in defi'
     year: '2023'
   5GavKiQAAAAJ:Se3iqnhoufwC:
-    citations: 10
+    citations: 11
     title: On limitation of transformer for learning hmms
     year: '2024'
   5GavKiQAAAAJ:Tyk-4Ss8FVUC:
-    citations: 21
+    citations: 22
     title: Near-optimal reward-free exploration for linear mixture mdps with plug-in solver
     year: '2021'
   5GavKiQAAAAJ:UeHWp8X0CEIC:
@@ -42,7 +42,7 @@ papers:
     title: Provable sim-to-real transfer in continuous domain with partial observations
     year: '2022'
   5GavKiQAAAAJ:Y0pCki6q_DkC:
-    citations: 181
+    citations: 182
     title: Understanding domain randomization for sim-to-real transfer
     year: '2021'
   5GavKiQAAAAJ:roLk4NBRz8UC:
