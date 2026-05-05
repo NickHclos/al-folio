@@ -12,7 +12,7 @@ chen2022understanding: |
   **Highlights**: We provide a **theoretical framework for domain randomization**, modeling the simulator as a set of MDPs with tunable parameters. We prove sharp bounds on the sim-to-real gap and show that successful transfer is achievable **without any real-world training samples**, highlighting the importance of history-dependent policies.
 
 pmlr-v139-hu21a: |
-  **Highlights**: We study **multi-task representation learning** for linear bandits and episodic RL with linear value function approximation. Our algorithm MTLR-OFUL achieves $$\tilde{O}(M\sqrt{dkT} + d\sqrt{kMT})$$ regret, significantly improving over the $$\tilde{O}(Md\sqrt{T})$$ baseline, yielding the **first theoretical characterization** of multi-task representation learning benefits in RL exploration.
+  **Highlights**: We study **multi-task representation learning** for linear bandits and episodic RL with linear approximation. Our algorithm achieves $$\tilde{O}(M\sqrt{dkT} + d\sqrt{kMT})$$ regret, significantly improving over the $$\tilde{O}(Md\sqrt{T})$$ baseline, yielding the **first theoretical characterization** of multi-task representation learning benefits in RL exploration.
 
 wang2020distributed: |
   **Highlights**: We design communication protocols for **distributed bandit learning** with $M$ agents under central coordination. For multi-armed bandits, we achieve near-optimal regret with only $$O(M\log(MK))$$ communication cost — **independent of the time horizon** $T$ and matching the lower bound up to a log factor.
