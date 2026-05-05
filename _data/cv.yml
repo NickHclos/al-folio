@@ -56,7 +56,7 @@ cv:
     Skills:
       - name: Research Areas
         icon: fa-solid fa-microscope
-        keywords: "Reinforcement Learning, Online Learning, Bandits, MDPs/POMDPs, Sim-to-Real Transfer, Quantum Computing"
+        keywords: "Reinforcement Learning, Online Learning, Bandits, Sim-to-Real Transfer, Quantum Computing, AI for Mathematics"
 
       - name: Programming
         icon: fa-solid fa-code
