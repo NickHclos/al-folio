@@ -4,11 +4,7 @@ cv:
   email: nickh@pku.edu.cn
   location: Beijing, China
   summary: >
-    I am an algorithm developer at ByteDance. I received my PhD from Peking University in 2025,
-    advised by Professor Liwei Wang, and remotely collaborated with Chi Jin (Princeton) and
-    Lihong Li for several years. My research focuses on sample-efficient reinforcement learning
-    and online learning, including statistically efficient bandits, online exploration in
-    structured MDPs/POMDPs, and sim-to-real transfer.
+    I am currently an algorithm developer at ByteDance. I received my PhD degree from Peking University in 2025.
 
   social_networks:
     - network: GitHub
@@ -20,13 +16,13 @@ cv:
         location: Beijing, China
         url: https://www.pku.edu.cn/
         area: Computer Science
-        studyType: PhD
+        studyType: PhD of Science
         start_date: 2020
         end_date: 2025
         highlights:
           - "Advisor: Professor [Liwei Wang](http://www.liweiwang-pku.com/)"
           - "Remote collaboration with [Chi Jin](https://sites.google.com/view/cjin/home) (Princeton University) and [Lihong Li](https://lihongli.github.io/)"
-          - "Research focus: sample-efficient reinforcement learning, online learning, bandits, MDPs/POMDPs, sim-to-real transfer"
+          - "Research focus: sample-efficient reinforcement learning, online learning, bandits, MDPs/POMDPs, AI for mathematics"
 
       - institution: Peking University
         location: Beijing, China
@@ -42,155 +38,20 @@ cv:
       - company: ByteDance
         position: Algorithm Developer
         location: Beijing, China
-        start_date: 2025-07
+        start_date: 2025
         end_date: present
 
       - company: Princeton University
         position: Visiting Researcher
         location: Princeton, NJ, USA
-        start_date: 2023-06
-        end_date: 2023-12
+        start_date: 2023
+        end_date: 2023
         highlights:
           - "Host: Professor [Chi Jin](https://sites.google.com/view/cjin/home)"
 
-    Publications:
-      - title: "The Sample Complexity of Online Strategic Decision Making with Information Asymmetry and Knowledge Transportability"
-        authors:
-          - Jiachen Hu
-          - Rui Ai
-          - Han Zhong
-          - Xiaoyu Chen
-          - Liwei Wang
-          - Zhaoran Wang
-          - Zhuoran Yang
-        publisher: "International Conference on Machine Learning (ICML)"
-        releaseDate: 2025
-        url: https://arxiv.org/abs/2506.09940
-
-      - title: "New Sphere Packings from the Antipode Construction"
-        authors:
-          - Ruitao Chen
-          - Jiachen Hu
-          - Binghui Li
-          - Liwei Wang
-          - Tianyi Wu
-        publisher: "arXiv preprint"
-        releaseDate: 2025
-        url: https://arxiv.org/abs/2505.02394
-        summary: "Authors listed in alphabetical order."
-
-      - title: "On Limitation of Transformer for Learning HMMs"
-        authors:
-          - Jiachen Hu
-          - Qinghua Liu
-          - Chi Jin
-        publisher: "arXiv preprint"
-        releaseDate: 2024
-        url: https://arxiv.org/abs/2406.04089
-
-      - title: "Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret"
-        authors:
-          - Han Zhong*
-          - Jiachen Hu*
-          - Yecheng Xue
-          - Tongyang Li
-          - Liwei Wang
-        publisher: "International Conference on Machine Learning (ICML)"
-        releaseDate: 2024
-        url: https://proceedings.mlr.press/v235/zhong24b.html
-        summary: "* Equal contribution."
-
-      - title: "Quantum Non-Identical Mean Estimation: Efficient Algorithms and Fundamental Limits"
-        authors:
-          - Jiachen Hu
-          - Tongyang Li
-          - Xinzhao Wang
-          - Yecheng Xue
-          - Chenyi Zhang
-          - Han Zhong
-        publisher: "Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC)"
-        releaseDate: 2024
-        url: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.9
-        summary: "Authors listed in alphabetical order."
-
-      - title: "ZeroSwap: Data-Driven Optimal Market Making in Decentralized Finance"
-        authors:
-          - Viraj Nadkarni
-          - Jiachen Hu
-          - Ranvir Rana
-          - Chi Jin
-          - Sanjeev Kulkarni
-          - Pramod Viswanath
-        publisher: "Financial Cryptography and Data Security (FC)"
-        releaseDate: 2024
-        url: https://arxiv.org/abs/2310.09413
-
-      - title: "Provable Sim-to-real Transfer in Continuous Domain with Partial Observations"
-        authors:
-          - Jiachen Hu*
-          - Han Zhong*
-          - Chi Jin
-          - Liwei Wang
-        publisher: "International Conference on Learning Representations (ICLR)"
-        releaseDate: 2023
-        url: https://openreview.net/forum?id=S31oTB72m0G
-        summary: "* Equal contribution."
-
-      - title: "Understanding Domain Randomization for Sim-to-real Transfer"
-        authors:
-          - Xiaoyu Chen*
-          - Jiachen Hu*
-          - Chi Jin
-          - Lihong Li
-          - Liwei Wang
-        publisher: "International Conference on Learning Representations (ICLR)"
-        releaseDate: 2022
-        url: https://openreview.net/forum?id=T8vZHIRTrY
-        summary: "* Equal contribution. Spotlight (top 6%)."
-
-      - title: "Near-Optimal Reward-Free Exploration for Linear Mixture MDPs with Plug-in Solver"
-        authors:
-          - Xiaoyu Chen
-          - Jiachen Hu
-          - Lin F. Yang
-          - Liwei Wang
-        publisher: "International Conference on Learning Representations (ICLR)"
-        releaseDate: 2022
-        url: https://openreview.net/forum?id=SidzxAb9k30
-        summary: "Spotlight (top 6%)."
-
-      - title: "Near-Optimal Representation Learning for Linear Bandits and Linear RL"
-        authors:
-          - Jiachen Hu*
-          - Xiaoyu Chen*
-          - Chi Jin
-          - Lihong Li
-          - Liwei Wang
-        publisher: "International Conference on Machine Learning (ICML)"
-        releaseDate: 2021
-        url: https://proceedings.mlr.press/v139/hu21a.html
-        summary: "* Equal contribution."
-
-      - title: "Efficient Reinforcement Learning in Factored MDPs with Application to Constrained RL"
-        authors:
-          - Xiaoyu Chen
-          - Jiachen Hu
-          - Lihong Li
-          - Liwei Wang
-        publisher: "International Conference on Learning Representations (ICLR)"
-        releaseDate: 2021
-        url: https://openreview.net/forum?id=fmtSg8591Q
-
-      - title: "Distributed Bandit Learning: Near-Optimal Regret with Efficient Communication"
-        authors:
-          - Yuanhao Wang*
-          - Jiachen Hu*
-          - Xiaoyu Chen
-          - Liwei Wang
-        publisher: "International Conference on Learning Representations (ICLR)"
-        releaseDate: 2020
-        url: https://openreview.net/forum?id=SJxZnR4YvB
-        summary: "* Equal contribution."
+    Professional Service:
+      - label: "Reviewer"
+        details: "NeurIPS, ICML, ICLR, AAAI, Autonomous Robots (AURO)"
 
     Skills:
       - name: Research Areas
