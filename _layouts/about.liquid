@@ -71,13 +71,6 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <!-- Visitor Globe -->
-    <div style="text-align: center; margin-top: 20px;">
-      <div style="display: inline-block; zoom: 0.25;">
-        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DoFCZWrflIrzMVTDTP_Bze6ev6GsEsEi6PxvTxuCRww"></script>
-      </div>
-    </div>
-
     <!-- Social -->
     {% if page.social %}
       <div class="social">
@@ -90,5 +83,12 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
+
+    <!-- Visitor Globe -->
+    <div style="text-align: center; margin-top: 20px;">
+      <div style="display: inline-block; zoom: 0.05;">
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DoFCZWrflIrzMVTDTP_Bze6ev6GsEsEi6PxvTxuCRww"></script>
+      </div>
+    </div>
   </article>
 </div>

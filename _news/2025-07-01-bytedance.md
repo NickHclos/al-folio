@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joining ByteDance as an algorithm developer!
+I will join ByteDance as an algorithm developer!
