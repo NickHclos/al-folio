@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-15'
 papers:
   5GavKiQAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -22,7 +22,7 @@ papers:
     title: 'Zeroswap: Data-driven optimal market making in defi'
     year: '2023'
   5GavKiQAAAAJ:Se3iqnhoufwC:
-    citations: 11
+    citations: 12
     title: On limitation of transformer for learning hmms
     year: '2024'
   5GavKiQAAAAJ:Tyk-4Ss8FVUC:
@@ -42,7 +42,7 @@ papers:
     title: Provable sim-to-real transfer in continuous domain with partial observations
     year: '2022'
   5GavKiQAAAAJ:Y0pCki6q_DkC:
-    citations: 187
+    citations: 189
     title: Understanding domain randomization for sim-to-real transfer
     year: '2021'
   5GavKiQAAAAJ:roLk4NBRz8UC:
@@ -50,7 +50,7 @@ papers:
     title: 'Quantum non-identical mean estimation: Efficient algorithms and fundamental limits'
     year: '2024'
   5GavKiQAAAAJ:ufrVoPGSRksC:
-    citations: 11
+    citations: 12
     title: Provably efficient exploration in quantum reinforcement learning with logarithmic worst-case regret
     year: '2023'
   5GavKiQAAAAJ:zYLM7Y9cAGgC:
