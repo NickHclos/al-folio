@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Algorithm Developer at ByteDance. PhD of Peking University.
+subtitle: Assistant Professor at SUFE, Former Algorithm Engineer at ByteDance, PhD of Peking University.
 
 profile:
   align: right
