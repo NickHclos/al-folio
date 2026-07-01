@@ -1,24 +1,20 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-07-01'
 papers:
   5GavKiQAAAAJ:0EnyYjriUFMC:
     citations: 2
     title: New sphere packings from the antipode construction
     year: '2025'
-  5GavKiQAAAAJ:5nxA0vEk-isC:
-    citations: 6
-    title: 'Ranvir Rana, Chi Jin, Sanjeev Kulkarni, and Pramod Viswanath. Zeroswap: Data-driven optimal market making in defi'
-    year: '2023'
   5GavKiQAAAAJ:8k81kl-MbHgC:
     citations: 1
     title: The Sample Complexity of Online Strategic Decision Making with Information Asymmetry and Knowledge Transportability
     year: '2025'
   5GavKiQAAAAJ:IjCSPb-OGe4C:
-    citations: 124
+    citations: 126
     title: 'Distributed bandit learning: Near-optimal regret with efficient communication'
     year: '2019'
   5GavKiQAAAAJ:LkGwnXOMwfcC:
-    citations: 3
+    citations: 9
     title: 'Zeroswap: Data-driven optimal market making in defi'
     year: '2023'
   5GavKiQAAAAJ:Se3iqnhoufwC:
@@ -30,7 +26,7 @@ papers:
     title: Near-optimal reward-free exploration for linear mixture mdps with plug-in solver
     year: '2021'
   5GavKiQAAAAJ:UeHWp8X0CEIC:
-    citations: 28
+    citations: 29
     title: Efficient reinforcement learning in factored mdps with application to constrained rl
     year: '2020'
   5GavKiQAAAAJ:UebtZRa9Y70C:
@@ -42,7 +38,7 @@ papers:
     title: Provable sim-to-real transfer in continuous domain with partial observations
     year: '2022'
   5GavKiQAAAAJ:Y0pCki6q_DkC:
-    citations: 192
+    citations: 199
     title: Understanding domain randomization for sim-to-real transfer
     year: '2021'
   5GavKiQAAAAJ:roLk4NBRz8UC:
@@ -54,6 +50,6 @@ papers:
     title: Provably efficient exploration in quantum reinforcement learning with logarithmic worst-case regret
     year: '2023'
   5GavKiQAAAAJ:zYLM7Y9cAGgC:
-    citations: 77
+    citations: 79
     title: Near-optimal representation learning for linear bandits and linear rl
     year: '2021'
