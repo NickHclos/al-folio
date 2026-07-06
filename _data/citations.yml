@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-06'
 papers:
   5GavKiQAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -10,7 +10,7 @@ papers:
     title: The Sample Complexity of Online Strategic Decision Making with Information Asymmetry and Knowledge Transportability
     year: '2025'
   5GavKiQAAAAJ:IjCSPb-OGe4C:
-    citations: 126
+    citations: 127
     title: 'Distributed bandit learning: Near-optimal regret with efficient communication'
     year: '2019'
   5GavKiQAAAAJ:LkGwnXOMwfcC:
@@ -26,11 +26,11 @@ papers:
     title: Near-optimal reward-free exploration for linear mixture mdps with plug-in solver
     year: '2021'
   5GavKiQAAAAJ:UeHWp8X0CEIC:
-    citations: 29
+    citations: 30
     title: Efficient reinforcement learning in factored mdps with application to constrained rl
     year: '2020'
   5GavKiQAAAAJ:UebtZRa9Y70C:
-    citations: 1
+    citations: 2
     title: 'ZeroSwap: Data-Driven Optimal Market Making in Decentralized Finance'
     year: '2024'
   5GavKiQAAAAJ:W7OEmFMy1HYC:
@@ -50,6 +50,6 @@ papers:
     title: Provably efficient exploration in quantum reinforcement learning with logarithmic worst-case regret
     year: '2023'
   5GavKiQAAAAJ:zYLM7Y9cAGgC:
-    citations: 79
+    citations: 80
     title: Near-optimal representation learning for linear bandits and linear rl
     year: '2021'
