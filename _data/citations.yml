@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-27'
 papers:
   5GavKiQAAAAJ:0EnyYjriUFMC:
-    citations: 2
+    citations: 3
     title: New sphere packings from the antipode construction
     year: '2025'
   5GavKiQAAAAJ:8k81kl-MbHgC:
@@ -18,11 +18,11 @@ papers:
     title: 'Zeroswap: Data-driven optimal market making in defi'
     year: '2023'
   5GavKiQAAAAJ:Se3iqnhoufwC:
-    citations: 12
+    citations: 14
     title: On limitation of transformer for learning hmms
     year: '2024'
   5GavKiQAAAAJ:Tyk-4Ss8FVUC:
-    citations: 23
+    citations: 24
     title: Near-optimal reward-free exploration for linear mixture mdps with plug-in solver
     year: '2021'
   5GavKiQAAAAJ:UeHWp8X0CEIC:
@@ -34,11 +34,11 @@ papers:
     title: 'ZeroSwap: Data-Driven Optimal Market Making in Decentralized Finance'
     year: '2024'
   5GavKiQAAAAJ:W7OEmFMy1HYC:
-    citations: 11
+    citations: 12
     title: Provable sim-to-real transfer in continuous domain with partial observations
     year: '2022'
   5GavKiQAAAAJ:Y0pCki6q_DkC:
-    citations: 199
+    citations: 202
     title: Understanding domain randomization for sim-to-real transfer
     year: '2021'
   5GavKiQAAAAJ:roLk4NBRz8UC:
@@ -46,10 +46,10 @@ papers:
     title: 'Quantum non-identical mean estimation: Efficient algorithms and fundamental limits'
     year: '2024'
   5GavKiQAAAAJ:ufrVoPGSRksC:
-    citations: 12
+    citations: 13
     title: Provably efficient exploration in quantum reinforcement learning with logarithmic worst-case regret
     year: '2023'
   5GavKiQAAAAJ:zYLM7Y9cAGgC:
-    citations: 80
+    citations: 81
     title: Near-optimal representation learning for linear bandits and linear rl
     year: '2021'
