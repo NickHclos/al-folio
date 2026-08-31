@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-08-31'
 papers:
   5GavKiQAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -42,7 +42,7 @@ papers:
     title: Provable sim-to-real transfer in continuous domain with partial observations
     year: '2022'
   5GavKiQAAAAJ:Y0pCki6q_DkC:
-    citations: 206
+    citations: 208
     title: Understanding domain randomization for sim-to-real transfer
     year: '2021'
   5GavKiQAAAAJ:roLk4NBRz8UC:
